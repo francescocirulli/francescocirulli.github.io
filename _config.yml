@@ -74,7 +74,7 @@ author_project_details:
                 project_url: https://web-gitgate.vercel.app/
                 documentation: https://seasoned-eocursor-e4d.notion.site/GitGate-7d44be6498344837bf77f1d9e33d308a
                 visibility: true
-              - project_thumbnail: vKudos.PNG
+              - project_thumbnail: vKudos.png
                 project_title: vKudos
                 project_description: vKudos is an ERC721Votes soulbound token allowing a kudos holder to mint its equivalent vKudos to be used in a Governor smart contract and so on the Tally platform
                 project_url: https://medium.com/@frankcc/vkudos-a-case-study-for-a-soulbound-721vote-3f8e4995052a
