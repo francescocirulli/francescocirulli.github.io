@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Frank_c
+subtitle: My personal website 
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -8,79 +8,84 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
-      url: /
     - text: About
       url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_logo: frankreal.png
+author: Francesco Cirulli
+author_bio: Hi, I'm an energetic and ambitious person with a great passion for technological innovation. I firmly believe that good people management is the key to the business success.
+            I'm a web3 builder since 2018. In my free time I listen to music, walk and watch movies. I'm a former competitive swimmer.
+author_email: "francesco.cirulli96@hotmail.it"
+typewrite-text: I'm a web3 builder and Technical Project Manager
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Urbe.eth
+              company_logo: urberosso.png
+              company_url: https://twitter.com/urbeEth
+              designation: community co-founder
+              description: Urbe.eth is an italian web3 tech-focused community
+              duration: 2022 - now
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Ethereans Lab
+              company_logo: logo_main_v.png
+              company_url: https://www.ethereanslabs.com/
+              designation: Technical Project Manager
+              description: Worked on various EthereansOS Products regarding DeFi, on-chain Governance and NFTs
+              duration: 2020 - 2022
+              visibility: true
+            - company_name: Cidaro srl
+              company_logo: cidaro.png
+              designation: co-founder & COO
+              description: co-founded startup which focuses on consulting and developing web3 services for companies
+              duration: 2018 - 2021
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: luiss.png
+                college_name: Luiss Business School (EQUIS accredited)
+                college_url: https://businessschool.luiss.it/en/
+                college_degree: Project Management
+                description: Master's Degree in Project Management
+                visibility: true
+              - college_logo: torvergata.png
+                college_name: University of Rome Tor Vergata
+                college_url: https://economia.uniroma2.it/cdl/biennio/clemif
+                college_degree: Economics of Financial Markets
+                description: Master's Degree in Finance
+                visibility: true
+              - college_logo: torvergata.png
+                college_name: University of Rome Tor Vergata
+                college_url: https://economia.uniroma2.it/cdl/triennio/clem
+                college_degree: Economics and Management
+                description: Bachelor’s Degree Management
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: pogm.png
+                project_title: GitGate
+                project_description: A DAO framework for GitHub repositories
+                project_url: https://web-gitgate.vercel.app/
+                documentation: https://seasoned-eocursor-e4d.notion.site/GitGate-7d44be6498344837bf77f1d9e33d308a
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: vKudos.PNG
+                project_title: vKudos
+                project_description: vKudos is an ERC721Votes soulbound token allowing a kudos holder to mint its equivalent vKudos to be used in a Governor smart contract and so on the Tally platform
+                project_url: https://medium.com/@frankcc/vkudos-a-case-study-for-a-soulbound-721vote-3f8e4995052a
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: Frankc_eth
+github_username:  francescocirulli
+linkedin_username: francesco-cirulli
+medium_username: frankcc
+linktree_username: frankcc
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -88,7 +93,7 @@ flickr_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: 
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
